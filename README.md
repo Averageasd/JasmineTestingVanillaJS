@@ -8,5 +8,5 @@ using spyOn to mock the dependencies. Moreover, karma is used for test coverage.
 Javascript, HTML, Jasmine, Karma.
 
 ## Screenshots
-![specs-run-jasmine]('./specs-run.png')
-![karma-code-coverage]('./karma-code-coverage.png')
+![specs-run-jasmine](specs-run.png)
+![karma-code-coverage](karma-code-coverage.png)
